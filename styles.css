@@ -1,5 +1,8 @@
 
 /* Your CSS Code here. */
+label {
+  display: block;
+}
 blockquote{
 max-width: 600px;
 margin: 10px;
